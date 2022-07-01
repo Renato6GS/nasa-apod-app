@@ -9,9 +9,9 @@ export const theme = {
     link: '#199AFC',
   },
   navbar: {
-    primary: '#24292e',
-    textSecondary: '#aaa',
-    textPrimary: '#fff',
+    bg: '#5220E1',
+    activeIcon: '#fefefe',
+    inactiveIcon: '#B0B0B0',
   },
   fontSizes: {
     mainTitle: 28,
